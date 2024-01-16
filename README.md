@@ -1,6 +1,5 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=thescaion137&color=brightgreen)
 
-<!--
 **thescalion137/thescalion137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
